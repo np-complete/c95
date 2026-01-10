@@ -1,2 +1,5 @@
-inherit: ["config.common.yml"]
-prt: キンコーズ
+booktitle: RubyistだけどAIがしたい!
+date: 2018-12-30
+history: [["2018-12-30"]]
+cover: titlepage.tex
+coverimage:
