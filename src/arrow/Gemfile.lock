@@ -32,7 +32,7 @@ GEM
       coderay (~> 1.1)
       method_source (~> 1.0)
       reline (>= 0.6.0)
-    red-arrow (25.0.0)
+    red-arrow (25.0.1)
       bigdecimal (>= 3.1.0)
       csv
       extpp (>= 0.1.2)
@@ -73,7 +73,7 @@ CHECKSUMS
   ostruct (0.6.3) sha256=95a2ed4a4bd1d190784e666b47b2d3f078e4a9efda2fccf18f84ddc6538ed912
   pkg-config (1.6.5) sha256=33f9f81c5322983d22b439b8b672f27777b406fea23bfec74ff14bbeb42ec733
   pry (0.16.0) sha256=d76c69065698ed1f85e717bd33d7942c38a50868f6b0673c636192b3d1b6054e
-  red-arrow (25.0.0) sha256=dcdf2da7acd6a59d5452326dbd3ca16de57b0eb9ecadeee70b0130ed31b1c4f9
+  red-arrow (25.0.1) sha256=3579c465a58e947a27e1c36c1d40afb9af720dd6d1b771285e53b781ee2d61b6
   reline (0.7.0) sha256=5b012d8e55dbf9d450f12bde2cf7d15ff546ae80b3f8f3b30e570d431815583d
 
 BUNDLED WITH
