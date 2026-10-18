@@ -9,7 +9,7 @@ GEM
       coderay (~> 1.1)
       method_source (~> 1.0)
       reline (>= 0.6.0)
-    pycall (1.5.3)
+    pycall (1.5.4)
       fiddle (>= 1.0.0)
     reline (0.7.0)
       io-console (~> 0.5)
@@ -29,7 +29,7 @@ CHECKSUMS
   io-console (0.9.4) sha256=a403304f32928ee85e56d457b4612ca43f2703b561a3258844992bd24085fbb1
   method_source (1.1.0) sha256=181301c9c45b731b4769bc81e8860e72f9161ad7d66dd99103c9ab84f560f5c5
   pry (0.16.0) sha256=d76c69065698ed1f85e717bd33d7942c38a50868f6b0673c636192b3d1b6054e
-  pycall (1.5.3) sha256=bb8c626c44ecc64508a73e6f7cd9b34e35a63daf25b332803b15e39919efe36d
+  pycall (1.5.4) sha256=c2ad9f7a47468d1e59a665e108e11a62cb2ecfd142f59fefca27ab25630fed9a
   reline (0.7.0) sha256=5b012d8e55dbf9d450f12bde2cf7d15ff546ae80b3f8f3b30e570d431815583d
 
 BUNDLED WITH
