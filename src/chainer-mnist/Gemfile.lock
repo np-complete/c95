@@ -9,7 +9,7 @@ GEM
     numo-linalg (0.1.7)
       numo-narray (>= 0.9.1.4)
     numo-narray (0.9.2.1)
-    pry (0.16.0)
+    pry (0.16.1)
       coderay (~> 1.1)
       method_source (~> 1.0)
       reline (>= 0.6.0)
@@ -46,7 +46,7 @@ CHECKSUMS
   method_source (1.1.0) sha256=181301c9c45b731b4769bc81e8860e72f9161ad7d66dd99103c9ab84f560f5c5
   numo-linalg (0.1.7) sha256=bf5faa48b682b707535a11ce8e10e8b74896aa61497e0d3b1f73a22c3455301b
   numo-narray (0.9.2.1) sha256=eed76b47eebe1288ffd878b387f1882f4863d8e6ab5dd61453768139e14adceb
-  pry (0.16.0) sha256=d76c69065698ed1f85e717bd33d7942c38a50868f6b0673c636192b3d1b6054e
+  pry (0.16.1) sha256=d92d82c86e7f2dc34beec6d2892d5cf5ea517eea22eed3ceabb38ee62a98accc
   pycall (1.5.4) sha256=c2ad9f7a47468d1e59a665e108e11a62cb2ecfd142f59fefca27ab25630fed9a
   red-chainer (0.4.1) sha256=3fd52c3d09c2b4ad7f356d911b212a1e9020949a6e3b9805792520bb3c569c2f
   red-datasets (0.2.1) sha256=a9f1427a4914e05fdd1c16f1a37bc5d5c8c3547dab682fd63bc8ec7c7508d3d0
