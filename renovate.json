@@ -22,7 +22,7 @@
       "groupName": "github-actions"
     },
     {
-      "matchPackagePatterns": ["^actions/", "^np-complete/"],
+      "matchPackageNames": ["/^actions//", "/^np-complete//"],
       "minimumReleaseAge": null,
       "automerge": true
     }
