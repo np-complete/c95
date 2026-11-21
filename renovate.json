@@ -9,27 +9,44 @@
   ],
   "rangeStrategy": "pin",
   "timezone": "Asia/Tokyo",
-  "schedule": ["at any time"],
+  "schedule": [
+    "at any time"
+  ],
   "minimumReleaseAge": "3 days",
   "packageRules": [
     {
-      "matchUpdateTypes": ["minor", "patch"],
+      "matchUpdateTypes": [
+        "minor",
+        "patch"
+      ],
       "matchCurrentVersion": "!/^0/",
       "automerge": true
     },
     {
-      "matchManagers": ["github-actions"],
+      "matchManagers": [
+        "github-actions"
+      ],
       "groupName": "github-actions"
     },
     {
-      "matchPackageNames": ["/^actions//", "/^np-complete//"],
+      "matchPackageNames": [
+        "/^actions//",
+        "/^np-complete//"
+      ],
       "minimumReleaseAge": null,
       "automerge": true
     },
     {
-      "matchManagers": ["github-actions"],
-      "matchPackageNames": ["np-complete/book-actions"],
-      "rangeStrategy": "replace"
+      "matchManagers": [
+        "github-actions"
+      ],
+      "matchPackageNames": [
+        "np-complete/book-actions"
+      ],
+      "rangeStrategy": "replace",
+      "minimumReleaseAge": "0 days",
+      "automerge": true,
+      "groupName": null
     }
   ],
   "vulnerabilityAlerts": {
@@ -39,6 +56,8 @@
   "lockFileMaintenance": {
     "enabled": true,
     "automerge": true,
-    "schedule": ["before 5am on monday"]
+    "schedule": [
+      "before 5am on monday"
+    ]
   }
 }
